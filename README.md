@@ -1,4 +1,6 @@
 # Where to find me!
+Hola! I am Leandro Melendez AKA Señor Performo.
+
 Here you will find some contact information about me.
 
 - [My webpage](https://www.srperf.com/) - Check the old blog, info and more!
