@@ -17,14 +17,14 @@ Here you will find some contact information about me.
 - [My book](https://amzn.to/37wqpyx) - Buy the Hitch Hikers Guide to Load Testing Projects
 
 ## More about k6
-- [Webpage k6.io](https://k6.io/)
-- [Join the community](https://community.k6.io/)
-- [Join our slack!](https://k6.io/slack)
-- [k6 repo](https://github.com/grafana/k6)
-- [Learn performance with k6](https://github.com/grafana/k6-learn)
-- [k6 on YouTube](https://www.youtube.com/@k6io)
+- [Webpage k6.io](https://k6.io?utm_source=Leandro&utm_medium=github&utm_campaign=CTA)
+- [Join the community](https://community.k6.io?utm_source=Leandro&utm_medium=github&utm_campaign=CTA)
+- [Join our slack!](https://k6.io/slack?utm_source=Leandro&utm_medium=github&utm_campaign=CTA)
+- [k6 repo](https://github.com/grafana/k6?utm_source=Leandro&utm_medium=github&utm_campaign=CTA)
+- [Learn performance with k6](https://github.com/grafana/k6-learn?utm_source=Leandro&utm_medium=github&utm_campaign=CTA)
+- [k6 on YouTube](https://www.youtube.com/@k6io?utm_source=Leandro&utm_medium=github&utm_campaign=CTA)
 
 ## More about Grafana
-- [Webpage Grafana](https://grafana.com/)
-- [Download Grafana](https://grafana.com/oss/grafana/)
-- [Grafana on YouTube](https://www.youtube.com/@Grafana)
+- [Webpage Grafana](https://grafana.com?utm_source=Leandro&utm_medium=github&utm_campaign=CTA)
+- [Download Grafana](https://grafana.com/oss/grafana?utm_source=Leandro&utm_medium=github&utm_campaign=CTA)
+- [Grafana on YouTube](https://www.youtube.com/@Grafana?utm_source=Leandro&utm_medium=github&utm_campaign=CTA)
